@@ -64,6 +64,22 @@
       "video": "https://www.youtube.com/watch?v=vhwspfvI52k",
       "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.",
       "categoria": "Innovación y Gestión"
+    },
+    {
+      "id": "2dff10c6-8831-45b9-b233-c64c9b98bb54",
+      "titulo": "¿Qué es JavaScript?",
+      "img": "https://i.ytimg.com/vi/GJfOSoaXk4s/hqdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+      "descripcion": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips.",
+      "categoria": "Front End"
+    }
+    {
+      "id": "2dff10c6-8831-45b9-b233-c64c9b98bb56",
+      "titulo": "¿Qué es SQL y NoSQL?",
+      "img": "https://i.ytimg.com/vi/cLLKVd5CNLc/hqdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
+      "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo.",
+      "categoria": "Back End"
     }
   ]
 }
