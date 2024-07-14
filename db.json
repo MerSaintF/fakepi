@@ -54,5 +54,16 @@
       "img": "https://m.media-amazon.com/images/I/61p1tVCll0L._AC_SY450_.jpg",
       "price": "500"
     }
+  ],
+  
+  "videos": [
+    {
+      "id": "2dff10c6-8831-45b9-b233-c64c9b98bb53",
+      "titulo": "¿Qué son las Soft Skills?",
+      "img": "https://i.ytimg.com/vi/vhwspfvI52k/hqdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=vhwspfvI52k",
+      "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.",
+      "categoria": "Innovación y Gestión"
+    }
   ]
 }
