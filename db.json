@@ -80,6 +80,56 @@
       "video": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
       "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo.",
       "categoria": "Back End"
-    }
+    },
+    {
+      "titulo": "Bucles y Bucles Anidados en Javascript",
+      "img": "https://i.ytimg.com/vi/FEdqGdtZuwc/hqdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=FEdqGdtZuwc",
+      "descripcion": "En este video, la instructora Génesys Rondón nos explica como aplicar Bucles utilizando como ejemplo un calendario.",
+      "categoria": "Front End",
+      "id": "3a38b9e8-9684-408d-90e4-5f7c9a1015a7"
+  },{
+    "titulo": "Banco de Datos MySQL",
+    "img": "https://i.ytimg.com/vi/8J0AoPZMVxA/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=8J0AoPZMVxA",
+    "descripcion": "¿Vamos a hablar de Base de datos con MySQL?\n\nEn esta serie de videos en alianza con Oracle, explicaremos y exploraremos las herramientas de Oracle. En este episodio recibimos a Narciso Junior, quien se desempeña como LATAM Cloud Evangelist en la empresa.",
+    "categoria": "Back End",
+    "id": "252f389b-9391-406f-85dd-8f8662091c47"
+},{
+  "titulo": "Comunicación en el día a día",
+  "img": "https://i.ytimg.com/vi/pOYyav4qx7o/hqdefault.jpg",
+  "video": "https://www.youtube.com/watch?v=pOYyav4qx7o",
+  "descripcion": "¡Videos nuevos todos los miércoles! A las 6pm México * 7pm Colombia * 8pm Bolivia * 9pm Argentina/Chile",
+  "categoria": "Innovación y Gestión",
+  "id": "291e0588-a73a-4a61-9c82-6d5bafdea123"
+},{
+  "titulo": "¿Por qué utilizar React?",
+  "img": "https://i.ytimg.com/vi/MnBNPA45NW8/hqdefault.jpg",
+  "video": "https://www.youtube.com/watch?v=MnBNPA45NW8&t=2s",
+  "descripcion": "En el Alura.tips de hoy platicaremos con Harland Lohora, instructor Front End en la plataforma de Alura Latam, sobre la librería JS de React. \n\nHarland nos comentará como surgió React, por que utilizarlo y por que se tornó una librería tan importante en el desarrollo front end.",
+  "categoria": "Front End",
+  "id": "2ade8b00-5203-4880-923e-72fbe6bfcda0"
+},{
+  "titulo": "¿Por qué utilizar React?",
+  "img": "https://i.ytimg.com/vi/UNeKzI2WHgQ/hqdefault.jpg",
+  "video": "https://www.youtube.com/watch?v=UNeKzI2WHgQ",
+  "descripcion": "¿Quieres conocer sobre los frameworks más utilizados en el mercado hoy en día? En este video nuestro instructor de Front End nos explicarás cuáles son los frameworks de Front más conocidos y las diferencias entre ellos.\n",
+  "categoria": "Front End",
+  "id": "856cfec9-fe45-4ad8-a090-c841358b0ea1"
+},{
+  "titulo": "¿Por qué utilizar Java actualmente?",
+  "img": "https://i.ytimg.com/vi/3kNuK-XAHEY/hqdefault.jpg",
+  "video": "https://www.youtube.com/watch?v=3kNuK-XAHEY",
+  "descripcion": "Java es una de las más conocidas tecnologías y se utiliza en millones de aplicaciones de software en todo el mundo. En este video, hablaremos de lo último en el lenguaje y la plataforma Java y de por qué debería ser tu elección para un próximo proyecto.\n",
+  "categoria": "Back End",
+  "id": "7005daf0-d7ac-4db4-a2cb-22284d341165"
+},{
+  "titulo": "¿Cómo un desarrollador Front End utiliza el Figma?",
+  "img": "https://i.ytimg.com/vi/UuAX5azcvDQ/hqdefault.jpg",
+  "video": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
+  "descripcion": "¿Cómo un desarrollador Front End utiliza el Figma? \n\nEn este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.",
+  "categoria": "Front End",
+  "id": "1e567b90-6b2d-49f4-a751-9f08814867e7"
+}
   ]
 }
